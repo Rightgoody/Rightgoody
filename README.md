@@ -10,7 +10,7 @@ I'll Update anything about myself here!
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rightgoody?theme=light&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/rightgoody/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rightgoody)](https://github.com/rightgoody/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rightgoody&layout=donut)](https://github.com/rightgoody/github-readme-stats)
 
 
 <!--
