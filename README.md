@@ -7,5 +7,4 @@ I'll Update anything about myself here!
 
 
 ## My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rightgoody&layout=donut)](https://github.com/rightgoody/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=rightgoody)](https://github.com/anuraghazra/github-readme-stats)
